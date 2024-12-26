@@ -6,7 +6,7 @@
 
 🤝 I’m looking to collaborate on designing, implementing and improving Cloud-based architecture in terms of reliability, scalability, elasticity, networking and security
 
-📚 I’m currently learning on Go development with the book [Everyday Go from Alex Ellis](https://openfaas.gumroad.com/l/everyday-golang) and GitOps principles using ArgoCD
+📚 I’m currently learning Go with the book [Everyday Go from Alex Ellis](https://openfaas.gumroad.com/l/everyday-golang) and GitOps principles using ArgoCD
 
 # 💻 Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
